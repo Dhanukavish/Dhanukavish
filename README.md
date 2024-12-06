@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhanuka Vishwanath Garusinghe </h1>
-<h3 align="center">IT student | A passionate IT for businnes researcher from Sri Lanka</h3>
+<h3 align="center">IT student | A passionate IT for business researcher from Sri Lanka</h3>
 <br>	
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="75px"></picture><h3> <b>About me: </b></h3>
+<h3> <b>About me: </b></h3>
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400px"></picture>
 <br>
 
-- 🌱 I’m currently learning **Software engineering and International Businees**
+- 🌱 I’m currently learning **Software engineering and International Business**
 - 👯 I’m looking to collaborate on **Business research**
 - 🤝 I’m looking for help with **IT research**
 - 👨‍💻 I'm undergraduate at **Esoft and NSBM**
